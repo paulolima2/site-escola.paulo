@@ -1,7 +1,13 @@
-body{background-color: rgb(77, 77, 77);}
+body{background-color: rgb(44, 44, 44);}
 .titulo1{color: aliceblue;}
 .paragrafo1{color: aliceblue;}
 .tabela1{color: aliceblue;
 border-top: 100px;
 }
-.linha1{background-color: black;}
+.linha1{background-color: rgb(255, 255, 255);}
+.img1{width: 500px;}
+.titulo2{color: aliceblue;}
+.subtitulo1{color: rgb(167, 167, 167);font-size: xx-large;}
+.paragrafo2{color: aliceblue;
+font-size: x-large;}
+table{margin-left: 5px;}
