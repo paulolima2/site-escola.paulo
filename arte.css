@@ -1,6 +1,8 @@
 body{background-color: rgb(44, 44, 44);}
 .titulo1{color: aliceblue;}
 .paragrafo1{color: aliceblue;}
+.paragrafo3{color: aliceblue;
+font-size: x-large;}
 .tabela1{color: aliceblue;
 border-top: 100px;
 }
@@ -19,3 +21,4 @@ table{margin-left: 5px;}
 .img_funk{width: 500px;}
 .img_forro{width: 500px;}
 .img_metal{width: 500px;}
+.img_kpop{width: 500px;}
